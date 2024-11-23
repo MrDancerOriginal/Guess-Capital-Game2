@@ -7,7 +7,7 @@ const port = 3000;
 let quiz = [
   { country: "France", capital: "Paris" },
   { country: "United Kingdom", capital: "London" },
-  { country: "United States of America", capital: "New York" },
+  { country: "United States of America", capital: "Washigton" },
 ];
 
 let totalCorrect = 0;
